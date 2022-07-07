@@ -17,5 +17,5 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
 
   def setup
     @user       = users(:michael)
-  endg
+  end
 end
